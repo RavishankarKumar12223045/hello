@@ -1,0 +1,11 @@
+<!DOCTdocument.getElementById("abc").innerHTML = Name;
+<html>
+<body>
+<p id="abc"></p>
+<script>
+mame1 = "Welcome to ";
+name1 += "  lovely Professional University";
+document.getElementByld("abc").innerHTML = name;
+</script>
+</body>
+</html>
